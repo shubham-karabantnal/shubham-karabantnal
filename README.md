@@ -2,16 +2,15 @@
 
 **`Full-Stack Web Developer | UI/UX Enthusiast`**
 
-I'm a passionate developer focused on building dynamic, aesthetically pleasing, and highly functional web applications. I thrive at the intersection of **design and engineering**, creating projects that deliver premium user experiences — from sophisticated custom platforms like DevPrivé to robust full-stack applications.
+I'm a passionate developer focused on building dynamic, aesthetically pleasing, and highly functional web applications. I thrive at the intersection of **design and engineering**, creating projects that deliver premium user experiences — from sophisticated custom platforms like Khaana to robust full-stack applications.
 
 Currently exploring **modern frontend frameworks, seamless animations, and scalable architectures** to sharpen my development skills. I believe in clean code, thoughtful design, and continuous learning across the vast landscape of technology.
 
 <h3 align="left">🔗 Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/YOUR_LINKEDIN_HANDLE" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
-<a href="https://github.com/YOUR_GITHUB_HANDLE" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="GitHub" height="30" width="40" /></a>
-<a href="https://x.com/YOUR_TWITTER_HANDLE" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="30" width="40" /></a>
-<a href="https://www.instagram.com/YOUR_INSTAGRAM_HANDLE" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/shubham-karbhantnal-b3ab63320/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
+<a href="https://github.com/shubham-karabantnal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="GitHub" height="30" width="40" /></a>
+<a href="https://www.instagram.com/shubham.karabantnal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" /></a>
 </p>
 
 ---
