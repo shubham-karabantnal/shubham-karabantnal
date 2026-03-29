@@ -51,7 +51,7 @@ Currently exploring **modern frontend frameworks, seamless animations, and scala
 
 ### 📊 What I'm Currently Doing
 
-- 🎥 Building and refining the **DevPrivé Video Platform** with premium aesthetic UI
+- 🎥 Building and refining the KHAANA application with premium aesthetic UI
 - 🎨 Perfecting **Glassmorphism**, dynamic animations, and responsive web design
 - 💻 Developing full-stack scalable web applications using **React and Vite**
 - 📚 Actively learning and experimenting with modern frontend tools and architecture
